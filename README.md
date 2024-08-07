@@ -1,16 +1,15 @@
-## Hi there 👋
+## Eae, de boa
 
-<!--
-**Pedro-max-afk/Pedro-max-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pedro-max-afk/Pedro-max-afk** is a ✨ _special_ ✨
+Meu nome é Ayrton Gonçalves
 
-Here are some ideas to get you started:
+. Estou utilizando o [Alura](https://www.alura.com.br) para editar este perfil
+. Ser simples é o que te faz ser grande
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contato para caso de dúvidas ###
+
+00001118880857sp@al.educacao.sp.gov.br
+
+
+![image](https://github.com/user-attachments/assets/20194d52-e002-432f-9af6-d6f9b2220317)
