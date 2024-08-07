@@ -1,4 +1,4 @@
-## Eae, de boa? ### 💫
+## Eae, de boa? 💫
 
 **Pedro-max-afk/Pedro-max-afk** is a ✨ _special_ ✨
 🎓 Meu nome é Ayrton Gonçalves 👑
