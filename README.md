@@ -1,11 +1,11 @@
-## Eae, de boa
+## Eae, de boa? ### 💫
 
 **Pedro-max-afk/Pedro-max-afk** is a ✨ _special_ ✨
-Meu nome é Ayrton Gonçalves
+🎓 Meu nome é Ayrton Gonçalves 👑
 
 . Estou utilizando o [Alura](https://www.alura.com.br) para editar este perfil
 
-. Ser simples é o que te faz ser grande
+. "Ser simples é o que te faz ser grande" 🖤
 
 
 ### Contato para caso de dúvidas ###
